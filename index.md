@@ -1,6 +1,11 @@
-#Welcome to my Github Page
+# Welcome to Burak Gur's GitHub Pages
 
-##Homeworks
+This is my [Progress Journal website](https://github.com/BU-IE-48B/fall21-MBurakGur) created for IE 48B course at Bogazici University.
 
-#1st Homework 
+## Homework Assignments
+
+There will be several homework assignments done for this course.
+
+### Homework Assignment 0
+* Summary of 5 interesting R examples using RMarkdown.
 
