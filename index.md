@@ -9,3 +9,5 @@ There will be several homework assignments done for this course.
 ### Homework Assignment 0
 * Summary of 5 interesting R examples using RMarkdown.
 
+### Homework Assignment 1 
+*https://github.com/BU-IE-48B/fall21-MBurakGur/blob/main/HW1-IE48B-RMD.html
