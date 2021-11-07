@@ -10,4 +10,4 @@ There will be several homework assignments done for this course.
 * Summary of 5 interesting R examples using RMarkdown.
 
 ### Homework Assignment 1 
-*[HW1 Html File](C:\Users\brkmb\Desktop\kitaplar\IE48B\fall21-MBurakGur)
+*[HW1 Html File](C:\Users\brkmb\Desktop\kitaplar\IE48B\fall21-MBurakGur\HW1-IE48B-RMD.html)
