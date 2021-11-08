@@ -10,5 +10,5 @@ There will be several homework assignments done for this course.
 * Summary of 5 interesting R examples using RMarkdown.
 
 ### Homework Assignment 1 
-*[HW1 Html File](Homework1\HW1-IE48B-RMD.html)
-*[HW1 R File](Homework1\HW1 R code.r)
+*[HW1 Html File](Homework1\HW1-IE48B-RMD.html) <br>
+*[HW1 R File](Homework1\HW1 R code.R)
