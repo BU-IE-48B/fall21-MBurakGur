@@ -11,3 +11,4 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 1 
 *[HW1 Html File](Homework1\HW1-IE48B-RMD.html)
+[HW1 R code](Homework1\HW1 R code.R)
