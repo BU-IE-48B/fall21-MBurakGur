@@ -6,12 +6,10 @@ This is my [Progress Journal website](https://github.com/BU-IE-48B/fall21-MBurak
 
 There will be several homework assignments done for this course.
 
-### Homework Assignment 0
-* Summary of 5 interesting R examples using RMarkdown.
 
 ### Homework Assignment 1 
 *[HW1 Html File](Homework1\HW1-IE48B-RMD.html) <br>
 *[HW1 R File](Homework1\HW1 R code.ipynb)
 ### Homework Assignment 2
 *[HW2 Html File](Homework2\HW2 Jupyter Notebook.html) <br>
-*[HW1 R File](Homework1\HW2 Jupyter Notebook.ipynb)
+*[HW1 R File](Homework2\HW2 Jupyter Notebook.ipynb)
