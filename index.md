@@ -12,4 +12,4 @@ There will be several homework assignments done for this course.
 *[HW1 R File](Homework1\HW1_R_code.ipynb)
 ### Homework Assignment 2
 *[HW2 Html File](Homework2\HW2_Jupyter_Notebook.html) <br>
-*[HW2 Jupyter File](Homework2\HW2_Jupyter_Notebook.ipynb)
+*[HW2 Jupyter File](Homework2\HW2_Jupyter_Notebook_Son.ipynb)
