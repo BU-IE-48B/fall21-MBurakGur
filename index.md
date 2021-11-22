@@ -13,4 +13,5 @@ There will be several homework assignments done for this course.
 *[HW1 Html File](Homework1\HW1-IE48B-RMD.html) <br>
 *[HW1 R File](Homework1\HW1 R code.ipynb)
 ### Homework Assignment 2
-*[HW1 Html File](Homework2\HW2 Jupyter Notebook.html) <br>
+*[HW2 Html File](Homework2\HW2 Jupyter Notebook.html) <br>
+*[HW1 R File](Homework1\HW2 Jupyter Notebook.ipynb)
