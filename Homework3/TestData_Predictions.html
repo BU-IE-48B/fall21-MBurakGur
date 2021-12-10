@@ -14512,53 +14512,55 @@ a.anchor-link {
     </script>
     <!-- End of mathjax configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
-Method:
 
-Started with choosing timeseries datasets whose training set at least 100 observations. 
-
-Data Sets
-
-1- Plane 
-2- Fish
-3- PowerCons
-4- ECG200
-5- Trace
-
-After chosing datasets; which representations, which distance measures and which k-nn classifier are used is given below. 
-
-Notes:
-1-)raw time series has no tuning parameter, so the number of combinations is reduced 60(intead 72).
-2-) Fused lasso has also not any tuning parameter, Piecewise agregate approximation is added.
-
-
-3 representations:
-1- raw
-2- tree (max_depth=5, max_depth=7)
-3- fusedlasso
-4- PAA (segment_length = 5)
-
-4 distance measures:
-
-1- Euclidian
-2- Dynamic Time Warping
-3- Longest Common SubSequence
-4- Edit Distance on Real Sequences
-
-3 k-nn classifier setting 
-
-1- k=1 
-2- k=3
-3- k=5
-
-2 tuning parameters of representations
-
-Besides, 10-fold crossvalidation with 5 repeats is must.
-
-In this notebook consists of test results for the best alternative option of all dataset.
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h1 id="IE48B-HW3">IE48B HW3<a class="anchor-link" href="#IE48B-HW3">&#182;</a></h1><h2 id="Muhammed-Burak-Gur">Muhammed Burak Gur<a class="anchor-link" href="#Muhammed-Burak-Gur">&#182;</a></h2><h3 id="2016403198">2016403198<a class="anchor-link" href="#2016403198">&#182;</a></h3>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Method:">Method:<a class="anchor-link" href="#Method:">&#182;</a></h3><p>Started with choosing timeseries datasets whose training set at least 100 observations.</p>
+<h4 id="Data-Sets">Data Sets<a class="anchor-link" href="#Data-Sets">&#182;</a></h4><ol>
+<li>Plane </li>
+<li>Fish</li>
+<li>PowerCons</li>
+<li>ECG200</li>
+<li>Trace</li>
+</ol>
+<p>After chosing datasets; which representations, which distance measures and which k-nn classifier are used is given below.</p>
+<h4 id="Notes:"><em>Notes</em>:<a class="anchor-link" href="#Notes:">&#182;</a></h4><ol>
+<li>raw time series has no tuning parameter, so the number of combinations is reduced 60(intead 72).</li>
+<li>Fused lasso has also not any tuning parameter, Piecewise agregate approximation is added.</li>
+</ol>
+<p><strong>3 representations:</strong></p>
+<ol>
+<li>raw</li>
+<li>tree (max_depth=5, max_depth=7)</li>
+<li>fusedlasso</li>
+<li>PAA (segment_length = 5)</li>
+</ol>
+<p><strong>4 distance measures:</strong></p>
+<ol>
+<li>Euclidian</li>
+<li>Dynamic Time Warping</li>
+<li>Longest Common SubSequence</li>
+<li>Edit Distance on Real Sequences</li>
+</ol>
+<p><strong>3 k-nn classifier setting</strong></p>
+<ol>
+<li>k=1 </li>
+<li>k=3</li>
+<li>k=5</li>
+</ol>
+<p>2 tuning parameters of representations</p>
+<p>Besides, 10-fold crossvalidation with 5 repeats is must.</p>
+<p>In this notebook consists of test results for the best alternative option of all dataset.
 In addition to this notebook, i also provide 5 additional notebook which includes the results of all combination for all dataset.
-The results are readed in this test notebook to find best combination. The best combination is used to predict for each dataset's testset. 
+The results are readed in this test notebook to find best combination. The best combination is used to predict for each dataset's testset.</p>
 
-<div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[1]:</div>
@@ -17129,8 +17131,14 @@ Fold 1 ... Fold 2 ... Fold 3 ... Fold 4 ... Fold 5 ...
 
 </div>
 
-</div>When we look at the test results, PowerCons dataset is the most accurate one. Its combination is also easy to apply comparing to other methods. 
-Besides PowerCons and ECG200, we cannot find any good model for rest to give high accuracy predictions. 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>When we look at the test results, PowerCons dataset is the most accurate one. Its combination is also easy to apply comparing to other methods. 
+Besides PowerCons and ECG200, we cannot find any good model for rest to give high accuracy predictions.</p>
+
+</div>
+</div>
 </body>
 
 
