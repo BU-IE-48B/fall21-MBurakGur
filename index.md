@@ -14,8 +14,8 @@ There will be several homework assignments done for this course.
 *[HW2 Html File](Homework2\HW2_Jupyter_Notebook.html) <br>
 *[HW2 Jupyter File](Homework2\HW2_Jupyter_Notebook_Son.ipynb)
 ### Homework Assignment 3
-*[HW3 TestData Predictions Html File](Homework3\TestData_Predictions.html) <br>
-*[HW3 TestData Predictions Notebook File](Homework3\TestData_Predictions.ipynb)
+*[HW3 TestData Predictions Html File](Homework3\Test_Predictions.html) <br>
+*[HW3 TestData Predictions Notebook File](Homework3\Test_Predictions.ipynb)
 *[HW3 Example of Combination Training Html File](Homework3\PowerCons_training.html) <br>
 *[HW3-ECG200 Combinations Training Notebook File](Homework3\HW3_ECG200.ipynb) <br>
 *[HW3-Fish Combinations Training Notebook File](Homework3\HW3_Fish.ipynb) <br>
