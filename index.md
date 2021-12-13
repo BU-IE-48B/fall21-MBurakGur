@@ -14,8 +14,13 @@ There will be several homework assignments done for this course.
 *[HW2 Html File](Homework2\HW2_Jupyter_Notebook.html) <br>
 *[HW2 Jupyter File](Homework2\HW2_Jupyter_Notebook_Son.ipynb)
 ### Homework Assignment 3
+
+Training notebooks includes combinations and their accuracy datas.
+Test data prediction files are the result files which consists of best parameter settings of predictions for all datasets.
+I did combination training on different notebook for each datasets.
+
 *[HW3 TestData Predictions Html File](Homework3\Test_Predictions.html) <br>
-*[HW3 TestData Predictions Notebook File](Homework3\Test_Predictions.ipynb)
+*[HW3 TestData Predictions Notebook File](Homework3\Test_Predictions.ipynb) <br>
 *[HW3 Example of Combination Training Html File](Homework3\PowerCons_training.html) <br>
 *[HW3-ECG200 Combinations Training Notebook File](Homework3\HW3_ECG200.ipynb) <br>
 *[HW3-Fish Combinations Training Notebook File](Homework3\HW3_Fish.ipynb) <br>
