@@ -27,3 +27,8 @@ I did combination training on different notebook for each datasets.
 *[HW3-Plane Combinations Training Notebook File](Homework3\HW3_Plane.ipynb) <br>
 *[HW3-PowerCons Combinations Training Notebook File](Homework3\HW3_PowerCons.ipynb) <br>
 *[HW3-Trace Combinations Training Notebook File](Homework3\HW3_Trace.ipynb) <br>
+### Project
+
+*[Project Report Html File](Project\Project.html) <br>
+*[Project Report PDF File](Project\Project.pdf) <br>
+
